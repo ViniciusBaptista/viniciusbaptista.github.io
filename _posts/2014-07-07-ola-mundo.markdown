@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Olá mundo!"
+date: 2014-07-07 20:10:00
+---
+
+``` javascript
+console.log("Olá mundo!");
+```
