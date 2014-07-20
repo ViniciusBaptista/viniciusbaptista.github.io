@@ -27,7 +27,7 @@ var objeto = {};
 var message(‘ola’);
 ```
 
-E depois que começei a ler, aprendi que essa é a melhor maneira.
+E depois que começei a ler, conclui que é mais prático declacar váriaveis dessa maneira.
 
 ``` javascript
 var items = [],
