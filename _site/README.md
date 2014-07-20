@@ -2,4 +2,4 @@ viniciusbaptista.github.io
 ========================
 
 [Blog][1]
-[1]: http://viniciusbaptista.github.com
+[1]: http://viniciusbaptista.github.io/
