@@ -3,3 +3,6 @@ markdown: redcarpet
 pygments: true
 layout: default
 comments: true
+
+layout: default
+comments: true
